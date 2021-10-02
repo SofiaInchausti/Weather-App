@@ -1,3 +1,43 @@
+<p align='left'>
+    <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
+</p>
+
+# Project - Weather App ⛅
+Weather App is a single page application where users can find the weather of different cities all around the word. I use an external API Open Weather to bring the information.
+
+🔹Technologies used:
+ReactJS -NodeJS-JavaScript-CSS
+
+
+<h3>Landing Page</h3>
+<img src='screenshots/landing.jpg'/>
+
+<h3>Cards<h3>
+<img src='screenshots/home.jpg'/>
+
+<h3>Card Detail<h3>
+<img src='screenshots/detail.jpg'/>
+    
+##  Run the next command lines to getting started 💻
+
+First you'll have to clone this repository in a folder in your computer, then you'll have to open your console in that directory and: 
+
+- cd api
+- npm install 
+- npm start
+
+This will start the back-end server on your localhost:3001/
+
+Then you must go back to the root directory of the project and: 
+
+- cd client
+- npm install
+- npm start 
+
+This will start the app on your localhost:3000
+
+Aditionally you'll have to create your local SQL database called 'food' in order to store your own dogs.
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
