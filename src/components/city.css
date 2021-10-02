@@ -1,0 +1,9 @@
+.city{
+    margin-top: 30px;
+    width: 245px;
+    height: 260px;
+    background-color: rgba(231, 224, 224, 0.89);
+    margin-left: 30px;
+    padding: 14px;
+    border-radius: 8px;
+}
